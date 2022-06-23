@@ -8,7 +8,7 @@ Tenho experiência com automação de testes utilizando a ferramenta Cypress.
 
 Atualmente estou estudando o javascript, react e linguagem C!
 
-Conhecimentos básicos em SQL.
+Conhecimentos básicos em banco de dados.
 
 # Linguagens Utilizadas:
 
